@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RickAndMortyAPP</string>
+    <string name="status_and_specie">%s %s</string>
+</resources>
